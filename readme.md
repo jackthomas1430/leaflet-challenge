@@ -21,9 +21,8 @@
 
 ##File Structure
 leaflet-challenge/
-├── Leaflet-Part-1/
 │   ├── index.html            # Main HTML file containing the structure of the webpage
-│   ├── static/
+│   ├── Leaflet-Part-1/
 │   │   ├── css/
 │   │   │   └── style.css     # CSS file for styling the map and webpage
 │   │   └── js/
@@ -34,7 +33,7 @@ leaflet-challenge/
 - 'index.html': The main HTML file for the dashboard.
 -'stle.css': contains styles for the webpage
 - 'logic.js': contains the JavaScript code for the interactive map 
-- 'static': Directory containing 'app.js'
+- 'Leaflet-Part-1': Directory containing 'app.js'
 - Use the following link to access map through Github Pages: (xxxxxxxx)
 
        
