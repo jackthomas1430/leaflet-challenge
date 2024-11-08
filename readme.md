@@ -22,15 +22,18 @@ For the Module 15 Challenge, we help the USGS create visualizations of earthquak
 - USGS Earthquake Data (GeoJSON)
 
 ## File Structure
-```leaflet-challenge/
+```
+leaflet-challenge/
 │   ├── index.html            # Main HTML file containing the structure of the webpage
 │   ├── static/
 │   │   ├── css/
 │   │   │   └── style.css     # CSS file for styling the map and webpage
 │   │   └── js/
-│   │       └── logic.js      # JavaScript file containing the logic for the map and data visualization```
+│   │       └── logic.js      # JavaScript file containing the logic for the map and data visualization
+```
 
 ## File Overview
+
 - 'leaflet-challenge'(https://github.com/jackthomas1430/leaflet-challenge.git) :The main repo for this challenge. 
 - 'index.html': The main HTML file for the dashboard.
 - 'stle.css': contains styles for the webpage
